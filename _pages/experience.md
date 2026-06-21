@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Before graduate school, I spent roughly seven years as a software, data, and quality automation engineer in Nepal and Germany. That work was not a detour from research — it is part of why I can do computational social science at scale: collecting platform data, building reproducible pipelines, and making analysis auditable when APIs, access, and infrastructure are unreliable.
+Before graduate school, I spent roughly five years as a software, data, and quality automation engineer in Nepal and Germany. That work was not a detour from research — it is part of why I can do computational social science at scale: collecting platform data, building reproducible pipelines, and making analysis auditable when APIs, access, and infrastructure are unreliable.
 
 At the [Hertie School](https://www.hertie-school.org/) (MSc, Data Science for Public Policy, 2023–2025), I moved from building systems to asking policy-informed questions about politics and platforms. My thesis on political TikTok in Nepal, and the work since — on disinformation, mobilization, and alternative media — sits at that intersection: computer science methods applied to social science problems, with attention to contexts where data and institutional resources are scarce.
 
