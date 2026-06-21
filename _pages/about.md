@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Early-career Computational Social Science Researcher · Political Communication & Alternative Media · Berlin
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Berlin, Germany</p>
+    <p><a href="mailto:nimathing1995@gmail.com">nimathing1995@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # renders bib entries marked selected={true}; heading overridden in _layouts/about.liquid
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +21,16 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an early-career computational social science researcher based in Berlin, originally from Kathmandu, Nepal. I study how alternative and independent media actors shape political attention, discourse, and mobilization — with a focus on understudied political contexts, especially Nepal.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I was trained in electronics engineering in Kathmandu, worked for several years as a quality assurance/automation software engineer, and then moved into social science through a postgraduate diploma in research writing (Open Institute, Nepal) and a [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds) at the [Hertie School](https://www.hertie-school.org/) ([Data for Good scholarship](https://drive.google.com/file/d/1nxFAZHvmvKWNcBQa8c_GPIWX29dQqGdH/view?usp=sharing), 2023–2025).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At [logiq.media](https://www.logiq.media) (part-time since April 2026; volunteer researcher Jan–Mar 2026), I work on audience segmentation, narrative mapping, and creator-led political messaging — including the European Narratives Observatory [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/) project. My prior research includes a submitted [MSc thesis](/research/) on political TikTok virality in Nepal's 2022 elections (supervised by [Prof. Simon Munzert](https://simonmunzert.github.io/)) and observational work on mobilization across Reddit, Facebook, and Bluesky.
+
+I am preparing to apply for PhD programmes in computational social science and political communication. I do not yet have peer-reviewed journal publications; my outputs so far are a submitted master's thesis, working papers, posters, and talks — on [Research outputs](/publications/). The fuller agenda is on [Research](/research/).
+

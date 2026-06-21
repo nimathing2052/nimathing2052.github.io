@@ -1,189 +1,226 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Nima Thing
+  label: Early-career Computational Social Science Researcher
+  email: nimathing1995@gmail.com
+  location: Berlin, Germany
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Early-career computational social scientist with an MSc in Data Science for Public Policy from the Hertie School, Berlin. Passionate about combining computer science methods with policy-informed research on political communication, disinformation, and digital-trace data — especially in understudied contexts such as Nepal and South Asia.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: nimathing2052
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: nima-thing
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Hertie School
+        location: Berlin, Germany
+        url: https://www.hertie-school.org/
+        area: Data Science for Public Policy
+        studyType: Master of Data Science for Public Policy
+        start_date: 2023-08
+        end_date: 2025-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Main fields: Data Science, Governance, Advanced Quantitative Methods."
+          - "Core subjects: Machine Learning, Deep Learning, Natural Language Processing, Causal Inference."
+          - "[Data for Good Full Scholarship](https://drive.google.com/file/d/1nxFAZHvmvKWNcBQa8c_GPIWX29dQqGdH/view?usp=sharing), Dieter Schwarz Stiftung."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: The Open Institute for Social Science
+        location: Lalitpur, Nepal
+        area: Research and Writing in Social Science
+        studyType: Postgraduate Diploma
+        start_date: 2021-08
+        end_date: 2022-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Research design, critical epistemology and methodology, ethnographic theory."
+
+      - institution: Tribhuvan University
+        location: Kathmandu, Nepal
+        area: Electronics and Communication Engineering
+        studyType: Bachelor of Engineering
+        start_date: 2014
+        end_date: 2018
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: logiq.media
+        position: Computational Social Science Researcher & Lead Developer (part-time)
+        location: Berlin / Remote
+        url: https://www.logiq.media
+        start_date: 2026-01
+        end_date: present
+        summary: "Volunteer researcher (Jan–Mar 2026); part-time from Apr 2026."
         highlights:
-          - Relativity
-          - Description 2.
+          - "On [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/) (Shaping Informed Frameworks for Trust), a 13-country European Narratives Observatory project. Builds audience segmentation and narrative-mapping pipelines to identify bridging actors and high-risk narrative clusters for counter-narrative experiments."
+          - "Developing [ElfBot](https://github.com/nimathing2052/elfbot_prototype.git) — a human-in-the-loop agentic AI system for disinformation triage, surfacing coordinated-behavior signals (burst dynamics, account clusters) for analyst review with citation-linked, confidence-calibrated outputs ([demo](https://elfbot-prototype.onrender.com/), [video](https://www.youtube.com/watch?v=VetENEzbFA8))."
+          - "Co-authored empirical commentary on the gap between fact-checking output volume and public reception in contested feeds — submitted to the [HKS Misinformation Review](https://drive.google.com/file/d/1eujhUqEHsWk5tC_Em74VQXrznuH4UmHq/view?usp=sharing)."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
+      - company: Weizenbaum Institute & University of Bern
+        position: Short-term Computer Engineer
         location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+        url: https://www.weizenbaum-institut.de/en/research/digital-markets-and-public-spheres-on-platforms/platform-algorithms-and-digital-propaganda/
+        start_date: 2025-12
+        end_date: 2025-12
+        summary: "Research infrastructure for longitudinal platform auditing."
+        highlights:
+          - "Designed reproducible, modular web-scraping framework (Botasaurus) for algorithmic auditing of Yandex and Google in Kremlin-disinformation research — [GitHub](https://github.com/nimathing2052/webscraper-botasaurus)."
+          - "Implemented fingerprint evasion, proxy orchestration, CAPTCHA handling, and structured logging; documented for social-science researchers."
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Welthungerhilfe — Data Analytics & AI Unit
+        position: Data Scientist / Engineer
+        location: Bonn, Germany
+        url: https://www.welthungerhilfe.de/
+        start_date: 2024-04
+        end_date: 2025-07
+        summary: "Bridging data science with humanitarian research at a leading international NGO."
+        highlights:
+          - "Designed and deployed end-to-end data pipeline (Microsoft Fabric, Spark, Power BI, DAX) for impact reporting; reduced query latency by 60%."
+          - "Led proof-of-concept for automated metadata ingestion and data lineage (OpenMetadata, PyApacheAtlas, MS Purview); presented governance framework at internal workshop with [Viadee](https://www.viadee.de/)."
+          - "Cross-functional collaboration with research and operations teams on data-driven decision-making."
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Immobilien Scout GmbH
+        position: Quality Specialist (Mobile)
+        location: Berlin, Germany
+        start_date: 2023-10
+        end_date: 2024-04
+        highlights:
+          - "Executed 20+ integration and A/B tests on Android/iOS; implemented Maestro automation framework improving efficiency by ~30%."
+
+      - company: Qniverse Pvt. Ltd.
+        position: Lead Automation Engineer
+        location: Kathmandu, Nepal
+        start_date: 2022-08
+        end_date: 2023-09
+        highlights:
+          - "Led QA automation and team mentorship for international research projects; achieved 90% API test coverage ahead of schedule."
+          - "Built browser automation and web scraping infrastructure (Selenium, Playwright) used across multiple UKRI-funded projects."
+          - "Employment Guru Award (2023) for QA leadership and process optimization."
+
+      - company: Verisk Nepal Pvt. Ltd.
+        position: Software Engineer, Data Analytics
+        location: Lalitpur, Nepal
+        start_date: 2019-02
+        end_date: 2022-08
+        highlights:
+          - "Developed performance-testing and schema-comparison tools (.NET Core/C#) for REST APIs; reduced deployment cycles from hours to minutes."
+          - "Built Python regression test suites for AWS/Snowflake data-ingestion ETL pipeline."
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: DeepTrace — South Asia Deepfake Detection
+        position: Research Assistant (Volunteer)
+        location: Remote
+        url: https://sites.google.com/view/south-asia-deepfake-detection/team?authuser=0
+        start_date: 2025-11
+        end_date: 2026-01
+        summary: "Dataset annotation and benchmark development for underrepresented contexts."
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Established annotation guidelines and benchmarks for AI-generated visual content in South Asian contexts."
+          - "Contributed dataset-collection UI/UX design — [deepfake-research.org](https://deepfake-research.org/)."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - company: Koç University (EnlightenAI / Human-AI Interaction)
+        position: Summer Research Intern
+        location: Istanbul, Turkey
+        start_date: 2025-07
+        end_date: 2025-09
+        summary: "Social media data tooling and NLP feature engineering."
+        highlights:
+          - "Built TikTok web-scraping and metadata tooling; comparative assessment of third-party data providers."
+          - "Contributed Named Entity Recognition features for search models with Human-AI Interaction team."
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: "Pre-Mobilization Reorganization of Online Discourse (Reddit & Facebook, Nepal Gen-Z Protest)"
+        url: "https://docs.google.com/document/d/1nh3i3wrkKgI9HLwLwCuE2nHM7VG746XpsiCixCITyp8/edit?usp=sharing"
+        summary: "Ongoing cross-platform analysis examining network restructuring before mass political protest. Uses Meta Content Library and structured Reddit collection (ArcticShift API). Accepted poster — see [How Are You, Democracy? 2026](#presentations)."
+        start_date: 2026
+        end_date: present
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Beyond the Ballot — TikTok Virality and Political Engagement in Nepal's 2022 Elections"
+        url: "https://github.com/nimathing2052/Thesis-Revision/blob/main/Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf"
+        summary: "MSc thesis (Hertie School, submitted and completed 2025; [Prof. Simon Munzert](https://simonmunzert.github.io/)). Revised after committee feedback; not yet published as a journal article. Multimodal ML study of 28,165 videos; full model AUC 0.800. [Code](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction). Presented at [TCSS 2026 and SICSS-Saarbrücken 2025](#presentations)."
+        start_date: 2024
+        end_date: 2025
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Stance Polarization & Community Structure on Bluesky"
+        url: "https://drive.google.com/file/d/1kcsgxSgPpxD5LwJj0gTxsK6gtXpD5Had/view?usp=sharing"
+        summary: "~156K posts: zero-shot stance classification, toxicity scoring (Perspective API), author-network analysis. Poster at [SICSS-Saarbrücken 2025](#presentations)."
+        start_date: 2025
+        end_date: 2025
+
+      - name: "Mapping Elite Attention Ecosystems on Instagram (Nepal)"
+        url: "https://docs.google.com/presentation/d/17GjpRtULDzkKvfN_bew4d6g2WdmusGsxf6VYvrD207U/edit?usp=sharing"
+        summary: "Network analysis of influential activists and attention structure around Nepal's Gen-Z digital movement. [Proposal](https://drive.google.com/file/d/1LayaeEgQWoKNJVNmQkvySuIHHifvFBm4/view?usp=sharing)."
+        start_date: 2026
+        end_date: 2026
+
+    Presentations:
+      - name: "How Are You, Democracy? (Karlsruhe, 2026)"
+        summary: "Accepted poster — Pre-Mobilization Reorganization of Online Discourse before Nepal's September 2025 Gen-Z Protest (25 June 2026). See [Pre-Mobilization Reorganization project](#projects)."
+
+      - name: "Youth in a Digital Society (University of Potsdam, 2026)"
+        summary: "Accepted poster — youth political mobilization and digital-trace signals (8 October 2026)."
+
+      - name: "TCSS 2026 (Koç University, Istanbul)"
+        url: "https://research.ku.edu.tr/research-infrastructure/research-centers-and-units/ccss/"
+        summary: "Talk — TikTok virality and political engagement in Nepal's 2022 election. [Slides](https://docs.google.com/presentation/d/18TxK3PCp-4I9McrHTpPy1_0NRiXD4UBi/edit?usp=sharing). See [Beyond the Ballot project](#projects)."
+
+      - name: "SICSS-Saarbrücken & MPIB (2025)"
+        summary: "Posters — TikTok virality and political engagement in Nepal's 2022 election ([SICSS poster](https://drive.google.com/file/d/1N3ko6H24G8DvNwQuLrLD8tZmTYEbsAI1/view?usp=sharing), [MPIB poster](https://drive.google.com/file/d/16UR118LnK3kvLxS1W6zFUd9WWYzinnN5/view?usp=sharing)), and stance polarization on Bluesky. See [Beyond the Ballot](#projects) and [Stance Polarization on Bluesky](#projects) projects."
+
+      - name: "SSaLM, Weizenbaum Institute (2025)"
+        url: "https://lppohl.github.io/wi-workshop.github.io/content/0-program.html"
+        summary: "Poster — deploying DistilBERT to detect and mitigate information bias. [Poster](https://drive.google.com/drive/u/0/folders/11yA1jfieLaSb5sekEpto2kmgN9MJSqEX)."
+
+    Awards:
+      - title: Data for Good Scholarship
+        authors:
+          - Dieter Schwarz Stiftung
+        date: 2023
+        awarder: Dieter Schwarz Stiftung
+        summary: Full scholarship for the Hertie School master's programme.
+      - title: Employment Guru Award
+        authors:
+          - Qniverse Pvt. Ltd.
+        date: 2023
+        awarder: Qniverse Pvt. Ltd.
+        summary: Recognition for QA automation leadership.
+      - title: ESSA Scholarship
+        authors:
+          - ESSA
+        date: 2022
+        awarder: ESSA
+        summary: BEHAVE Summer School on Agent-Based Modelling for Social Scientists.
+      - title: Verisk Way to Go
+        authors:
+          - Verisk Analytics
+        date: 2020
+        awarder: Verisk Analytics
+        summary: Recognition for API testing and data-analysis tooling.
+
+    Skills:
+      - name: Computational Social Science
+        keywords: "Agentic LLM pipelines (MCP, retrieval/Tavily/Wikidata), multimodal feature extraction (CLIP, Whisper, OCR), stance & topic modelling, network analysis, web scraping for research (Botasaurus, Playwright, Selenium), reproducible pipelines"
+      - name: Machine Learning & NLP
+        keywords: "Transformers (HuggingFace), DistilBERT, BERTopic, XGBoost, PyTorch, scikit-learn, fairness diagnostics"
+      - name: Engineering & Data
+        keywords: "Python, R, SQL, Spark, Docker, Microsoft Fabric, AWS, Snowflake, ETL, OpenMetadata, Airflow"
+
+    Languages:
+      - name: English
+        summary: "Professional / fluent"
+      - name: Nepali
+        summary: "Native"
+      - name: Hindi
+        summary: "Professional"
+      - name: German
+        summary: "A2 (beginner)"
+
+    Certificates:
+      - name: Digital Governance
+        date: 2025
+        issuer: Hertie School
+        url: "https://drive.google.com/file/d/1IpVJJBSGkurjzp2vLSNNZMKWa3YIddqt/view?usp=sharing"
+      - name: Algorithmic Fairness
+        date: 2025
+        issuer: Hertie School
+        url: "https://drive.google.com/file/d/1vVGHclnZEI9wulktA-YxH8FLc1XOTC3c/view?usp=sharing"
