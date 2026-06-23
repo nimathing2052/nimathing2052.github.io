@@ -38,8 +38,8 @@ A multimodal machine-learning study of 28,165 political TikTok videos; a multimo
 
 The central finding — that political visibility is patterned by sender identity and actor capacity more than communication style, with independent candidates (particularly Balen Shah, now Prime Minister of Nepal) driving disproportionate attention — raised a deeper question: not *what content goes viral*, but *how alternative, non-party media actors built outsized credibility and affective resonance in a fragmented political landscape*. That question drives the ongoing research interest.
 
-**[Pre-Mobilization Reorganization of Online Discourse before Nepal's September 2025 Gen-Z Protest.](https://docs.google.com/document/d/1nh3i3wrkKgI9HLwLwCuE2nHM7VG746XpsiCixCITyp8/edit?usp=sharing)**
-Ongoing independent research (Meta Content Library access granted, April 2026). \[[Draft](https://docs.google.com/document/d/1nh3i3wrkKgI9HLwLwCuE2nHM7VG746XpsiCixCITyp8/edit?usp=sharing)\]
+**[Beyond the ban: co-engagement network signals on Nepali Reddit in the run-up to the Sep 8 Gen Z protest](https://drive.google.com/file/d/1eeZ8ZRtDSCTJZ0rodJx6F0-iGODVqGRo/view?usp=sharing)**
+Ongoing independent research. \[[Poster](https://drive.google.com/file/d/1eeZ8ZRtDSCTJZ0rodJx6F0-iGODVqGRo/view?usp=sharing)\]
 
 A cross-platform structural analysis of Reddit and Facebook discourse preceding the protest, using the Meta Content Library and ArcticShift API. Focuses on network-level reorganization — contraction, densification, bridging community rotation — as precursors to volume spikes, rather than content classification. Descriptive and structural; accepted as a poster for the *How Are You, Democracy?* conference, Karlsruhe (June 2026).
 
