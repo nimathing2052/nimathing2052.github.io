@@ -11,9 +11,8 @@ A study of representational fairness in transformer-based text classifiers. As m
 
 The resulting model achieved an F1-score of 0.68 while surfacing a 22% demographic-parity gap, illustrating the tension between predictive performance and group fairness in content-moderation models.
 
-As lead author, I presented these findings on representational fairness at [*SSaLM: Social Science & Language Models*](https://lppohl.github.io/wi-workshop.github.io/content/0-program.html) at the Weizenbaum Institute in April 2025.
-
+As lead author, I presented these findings on representational fairness at [_SSaLM: Social Science & Language Models_](https://lppohl.github.io/wi-workshop.github.io/content/0-program.html) at the Weizenbaum Institute in April 2025.
 
 **Stack:** Python, PyTorch, DistilBERT, fairness diagnostics.  
-**Code:** [Colab notebook](https://colab.research.google.com/drive/15V6bZnLlEvDTRuMDE3SxCeiUmMbFoiR3). 
+**Code:** [Colab notebook](https://colab.research.google.com/drive/15V6bZnLlEvDTRuMDE3SxCeiUmMbFoiR3).
 **Coursework:** Deep Learning

@@ -15,4 +15,4 @@ The work is a methodological contribution to studying political communication in
 
 **Stack:** Python, scikit-learn, XGBoost, CLIP, Whisper.  
 **Thesis:** [Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf](https://github.com/nimathing2052/Thesis-Revision/blob/main/Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf) (submitted and completed, 2025; revised after committee feedback).  
-**Code:** [github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction). 
+**Code:** [github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction).
