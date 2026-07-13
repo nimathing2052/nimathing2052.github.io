@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Early-career Computational Social Science Researcher · Political Communication & Alternative Media · Berlin
+subtitle: Early-career Computational Social Science Researcher · Political Communication, Online Discourse & Alternative Media · Berlin
 
 profile:
   align: right
