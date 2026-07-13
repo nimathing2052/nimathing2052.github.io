@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Early-career Computational Social Science Researcher · Political Communication, Online Discourse & Alternative Media · Berlin
+subtitle: Computational Social Science Researcher · Political Communication, Online Discourse & Alternative Media · Berlin
 
 profile:
   align: right
@@ -26,10 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an early-career computational social science researcher based in Berlin, originally from Kathmandu, Nepal. I study how alternative and independent media actors shape political attention, discourse, and mobilization — with a focus on understudied political contexts, especially Nepal.
+I am an early-career computational social science researcher based in Berlin, originally from Kathmandu, Nepal. My work focuses on disinformation and hate speech.
 
-I was trained in electronics engineering in Kathmandu, worked for several years as a quality assurance/automation software engineer, and then moved into social science through a postgraduate diploma in research writing (The Open Institute for Social Science, Nepal) and a [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds) at the [Hertie School](https://www.hertie-school.org/) ([Data for Good scholarship](https://drive.google.com/file/d/1nxFAZHvmvKWNcBQa8c_GPIWX29dQqGdH/view?usp=sharing), 2023–2025).
+At [logiq.media](https://www.logiq.media) (part-time since April 2026; volunteer researcher Jan–Mar 2026), I led the development of [Elfbot](https://www.logiq.media/elfbot), an AI-assisted, human-in-the-loop prototype for moderating comments and detecting trolls and toxic content.
 
-At [logiq.media](https://www.logiq.media) (part-time since April 2026; volunteer researcher Jan–Mar 2026), I work on audience segmentation, narrative mapping, and creator-led political messaging — including the European Narratives Observatory [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/) project. My prior research includes a submitted [MSc thesis](/research/) on political TikTok virality in Nepal's 2022 elections (supervised by [Prof. Simon Munzert](https://simonmunzert.github.io/)) and observational work on mobilization across Reddit, Facebook, and Bluesky.
+A connected strand of my research asks how alternative and creator-led independent media have shaped political attention, discourse, and mobilization over recent decades (see Projects). Since 2023, I have focused on affective polarization, hate speech, and platform dynamics in European and Western contexts, with the long-term goal of extending this work to Nepal, where the topic remains understudied.
 
-I am preparing to apply for PhD programmes in computational social science and political communication. I do not yet have peer-reviewed journal publications; my outputs so far are a submitted master's thesis, working papers, posters, and talks — on [Research outputs](/publications/). The fuller agenda is on [Research](/research/).
+My background was initially in engineering. I trained as an electronics and communication engineer (2014-2018) in Kathmandu, then worked for several years as a quality assurance and automation software engineer, and later moved into social science through a postgraduate diploma in research writing at The Open Institute for Social Science, Nepal. I continued pursuing computational social science (CSS) with a [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds) at the [Hertie School](https://www.hertie-school.org/), supported by a [Data for Good scholarship](https://drive.google.com/file/d/1nxFAZHvmvKWNcBQa8c_GPIWX29dQqGdH/view?usp=sharing) (2023–2025).
+
+My goal is to apply for PhD programmes in computational social science focused on disinformation, hate speech, and polarization. I do not yet have peer-reviewed journal publications; my outputs so far include a submitted master's thesis, working papers, posters, and talks, all listed under [Research outputs](/publications/). The broader agenda is on [Research](/research/).
