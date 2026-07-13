@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-05-12 16:00:00+0100
+date: 2026-06-10 09:00:00+0100
 inline: true
 related_posts: false
 ---
 
-Presented a session called "AI, Democracy and Elections module" under "AI for Governance and Public Good" to participants from [Project Abhaya](https://projectabhaya.com/) from Kathmandu, Nepal.
+Accepted poster at [**“How Are You, Democracy?”**](https://www.socialsentiment.org/news/call-for-posters-how-are-you-democracy-copy/) conference in Karlsruhe (25 June 2026) — _Beyond the ban: co-engagement network signals on Nepali Reddit in the run-up to the Sep 8 Gen Z protest_.
