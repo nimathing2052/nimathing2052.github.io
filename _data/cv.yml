@@ -129,9 +129,9 @@ cv:
           - "Contributed Named Entity Recognition features for search models with Human-AI Interaction team."
 
     Projects:
-      - name: "Pre-Mobilization Reorganization of Online Discourse (Reddit & Facebook, Nepal Gen-Z Protest)"
-        url: "https://docs.google.com/document/d/1nh3i3wrkKgI9HLwLwCuE2nHM7VG746XpsiCixCITyp8/edit?usp=sharing"
-        summary: "Ongoing cross-platform analysis examining network restructuring before mass political protest. Uses Meta Content Library and structured Reddit collection (ArcticShift API). Accepted poster — see [How Are You, Democracy? 2026](#presentations)."
+      - name: "Pre-Mobilization Reorganization of Online Discourse before Nepal's September 2025 Gen-Z Protest (In Progress)"
+        url: "https://drive.google.com/file/d/1eeZ8ZRtDSCTJZ0rodJx6F0-iGODVqGRo/view"
+        summary: "Ongoing cross-platform analysis examining network restructuring before mass political protest. Uses Meta Content Library and structured Reddit collection (ArcticShift API). Accepted poster (Reddit Specific) — see [How Are You, Democracy? 2026](#presentations)."
         start_date: 2026
         end_date: present
 
@@ -155,7 +155,7 @@ cv:
 
     Presentations:
       - name: "How Are You, Democracy? (Karlsruhe, 2026)"
-        summary: "Accepted poster — Pre-Mobilization Reorganization of Online Discourse before Nepal's September 2025 Gen-Z Protest (25 June 2026). See [Pre-Mobilization Reorganization project](#projects)."
+        summary: "Accepted poster — Beyond the ban: co-engagement network signals on Nepali Reddit in the run-up to the Sep 8 Gen Z protest (25 June 2026). See [Pre-Protest Reorganization project](#projects)."
 
       - name: "Youth in a Digital Society (University of Potsdam, 2026)"
         summary: "Accepted poster for my Master Thesis (8 October 2026)."
