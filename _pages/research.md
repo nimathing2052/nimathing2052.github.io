@@ -48,8 +48,8 @@ Computational group project, [SICSS-Saarbrücken 2025](https://sicss.io/2025/saa
 
 Descriptive classification study of roughly 156K Bluesky posts combining zero-shot stance classification, toxicity scoring (Perspective API), and author-network analysis over a 46K-node network with community detection. Exploratory in scope; co-authored with SICSS project teammates.
 
-**[Evaluating and Mitigating Bias in Toxic Language Detection Models.](https://drive.google.com/drive/u/0/folders/11yA1jfieLaSb5sekEpto2kmgN9MJSqEX)**
-Group project with Armande Aboudrar-Méda, Zhuohao Hu, and Shruti Kakade (Deep Learning course, Hertie School) — I led model fine-tuning and bias evaluation and wrote most of the code. Presented as a poster at _SSaLM: Social Science and Language Models_, Weizenbaum Institute (2025). \[[Poster](https://drive.google.com/drive/u/0/folders/11yA1jfieLaSb5sekEpto2kmgN9MJSqEX)\]
+**[Evaluating and Mitigating Bias in Toxic Language Detection Models.](https://drive.google.com/file/d/15ETMVC4AteKt-bWmkCpf6budbSE7kIpA/view?usp=sharing)**
+Group project with Armande Aboudrar-Méda, Zhuohao Hu, and Shruti Kakade (Deep Learning course, Hertie School) — I led model fine-tuning and bias evaluation and wrote most of the code. Presented as a poster at _SSaLM: Social Science and Language Models_, Weizenbaum Institute (2025). \[[Poster](https://drive.google.com/file/d/15ETMVC4AteKt-bWmkCpf6budbSE7kIpA/view?usp=sharing)\]
 
 Fine-tuned DistilBERT for multi-label toxicity classification on the Jigsaw Toxic Comment dataset, then evaluated and mitigated disparities across demographic groups (gender, religion, race) identified via keyword proxies. Coursework-scale rather than a published study; keyword-based group identification is a limitation relative to expert-annotated approaches.
 
