@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /experience/
-title: From Engineering Systems to Social Questions
-description: My path from software engineering to computational social science.
+title: CSS Journey
+description: My path from software engineering to computational social scienc(CSS).
 nav: true
 nav_order: 6
 ---
+
+## From Engineering Systems to Social Questions
 
 I started my career as a software QA engineer in Kathmandu in 2019. At that time, engineering felt like the most practical path: a way to build a stable career, support my family, and work with systems I understood. But during the COVID-19 lockdown in 2020, the isolation made me question whether the work I was doing in a corporate IT office was the kind of work I wanted to keep doing.
 
