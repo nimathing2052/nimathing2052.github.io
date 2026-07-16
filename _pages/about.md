@@ -28,7 +28,7 @@ latest_posts:
 
 I am an early-career computational social science researcher based in Berlin, originally from Kathmandu, Nepal. My background combines software engineering, computational social science, and applied work on political communication. I worked as a software engineer from 2019 to 2022 before moving into data science and computational social science, with a focus on how political communication behaves on digital platforms.
 
-At [logiq.media](https://www.logiq.media), I currently lead the development of [Elfbot](https://www.logiq.media/elfbot), an AI-assisted, human-in-the-loop prototype for Facebook comment moderation that helps identify trolls and toxic content.
+At [logiq.media](https://www.logiq.media), I currently lead the development of [Elfbot](https://www.logiq.media/elfbot), an AI-assisted, human-in-the-loop prototype for Facebook comment moderation that helps identify trolls and toxic content and moderate them based on organization's brand/policy. 
 
 I have a Bachelor of Engineering in Electronics and Communication from Kathmandu Engineering College and a postgraduate diploma in research writing at [The Open Institute for Social Science](https://theopen.institute/) from Nepal. I came to Germany in 2023, for my [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds) at the [Hertie School](https://www.hertie-school.org/), supported by a [Data for Good scholarship](https://drive.google.com/file/d/1nxFAZHvmvKWNcBQa8c_GPIWX29dQqGdH/view?usp=sharing) which I completed at 2025. 
 
