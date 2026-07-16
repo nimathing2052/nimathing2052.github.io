@@ -26,6 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Hi there 👋, Welcome to my portfolio website!
+
 I am an early-career computational social science researcher based in Berlin, originally from Kathmandu, Nepal. I worked as a software engineer from 2019 to 2022 before moving into data science and computational social science, with a focus on how political communication behaves on digital platforms.
 
 At [logiq.media](https://www.logiq.media), I currently lead the development of [Elfbot](https://www.logiq.media/elfbot), an AI-assisted, human-in-the-loop prototype for Facebook comment moderation that helps identify trolls and toxic content and moderate them based on organization’s brand and policy guidelines.
