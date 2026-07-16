@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-## From Engineering Systems to Social Questions
-
 I started my career as a software QA engineer in Kathmandu in 2019. At that time, engineering felt like the most practical path: a way to build a stable career, support my family, and work with systems I understood. But during the COVID-19 lockdown in 2020, the isolation made me question whether the work I was doing in a corporate IT office was the kind of work I wanted to keep doing.
 
 That question did not come all at once. It appeared slowly, through the parts of my work that pulled me outside software itself: corporate social responsibility projects, mentoring at the office, public speaking circles during the lockdown, and conversations with people working far from the IT industry. I was still using the language of technology, but I was becoming more interested in the social worlds around it.
