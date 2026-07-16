@@ -1,11 +1,9 @@
 cv:
   name: Nima Thing
-  label: Early-career Computational Social Science Researcher
+  headline: Computational social science researcher focused on political communication, disinformation, and digital-trace data.
   email: nimathing1995@gmail.com
   location: Berlin, Germany
-  image: ""
-  summary: >
-    Early-career computational social scientist with an MSc in Data Science for Public Policy from the Hertie School, Berlin. Passionate about combining computer science methods with policy-informed research on political communication, disinformation, and digital-trace data — especially in understudied contexts such as Nepal and South Asia.
+  photo: ../assets/img/prof_pic.jpg
 
   social_networks:
     - network: GitHub

@@ -2,18 +2,16 @@
 layout: page
 permalink: /experience/
 title: CSS Journey
-description: My path from software engineering to computational social scienc(CSS).
+description: My path from software engineering to computational social science.
 nav: true
 nav_order: 6
 ---
 
-## From Engineering Systems to Social Questions
-
-I started my career as a software QA engineer in Kathmandu in 2019. At that time, engineering felt like the most practical path: a way to build a stable career, support my family, and work with systems I understood. But during the COVID-19 lockdown in 2020, the isolation made me question whether the work I was doing in a corporate IT office was the kind of work I wanted to keep doing.
+I started my career as a software QA engineer in Kathmandu in 2019. Engineering felt like the practical path: a way to build a stable career, support my family, and work with systems I understood. But during the COVID-19 lockdown in 2020, I began questioning whether corporate IT was the kind of work I wanted to keep doing.
 
 That question did not come all at once. It appeared slowly, through the parts of my work that pulled me outside software itself: corporate social responsibility projects, mentoring at the office, public speaking circles during the lockdown, and conversations with people working far from the IT industry. I was still using the language of technology, but I was becoming more interested in the social worlds around it.
 
-The clearest turning point came through my mother’s organic composting farm. She had recently started the farm and was facing difficulties from several directions: limited formal education, financial pressure, weak family support, and the everyday uncertainty of running a small agricultural business. My first instinct was technical. I thought I could help by building an e-commerce platform for her using the .NET MVC framework.
+The clearest turning point came through my mother’s organic composting farm. She had recently started the farm in 2018 and was facing difficulties from several directions: limited formal education, financial pressure, weak family support, and the everyday uncertainty of running a small agricultural business. My first instinct was technical. I thought I could help by building an e-commerce platform for her using the .NET MVC framework.
 
 I built the platform, but I did not know what should happen next. More importantly, I began to see that I had built it more for myself than for farmers like her. The tool reflected my assumptions as a programmer, not her actual practices. She relied more on in-person relationships, local marketing, trust, and occasional posts on Facebook. The gap was not simply a missing app. It was a mismatch between a technical solution and the social conditions in which that solution was supposed to work.
 
