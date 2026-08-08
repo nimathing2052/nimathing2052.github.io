@@ -44,11 +44,11 @@ cv:
     Experience:
       - company: University of Bern
         position: Subcontractor, Generative AI Hate-Speech Risk Study
-        location: Bern, Switzerland / Remote
+        location: Remote
         url: https://www.unibe.ch/
         start_date: 2026-08
         end_date: 2026-08
-        summary: "Short-term subcontracted research role supporting a multi-method study on risks of hate-speech propagation by generative AI."
+        summary: "Anti-semitic speech detection and propagation by generative AI."
         highlights:
           - "Built and benchmarked a 5-model LLM classification pipeline for a hate-speech study, improving macro F1 from ~0.68 to ~0.86 and scaling analysis to 8,523 outputs."
 
