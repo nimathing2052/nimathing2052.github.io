@@ -52,6 +52,18 @@ cv:
         highlights:
           - "Built and benchmarked a 5-model LLM classification pipeline for a hate-speech study, improving macro F1 from ~0.68 to ~0.86 and scaling analysis to 8,523 outputs."
 
+      - company: Policy Entreprenuers Inc., 
+        position: Technical Consultant, Gen Z Digital Movement Study
+        location: Remote
+        url: https://pei.center/
+        start_date: 2026-05
+        end_date: 2026-06
+        summary: "Provided computational social science expertise for a study on Gen Z digital movements in Nepal."
+        highlights:
+          - "Built social network analysis on Nepali 5185 Reddit Authors and explored cross-platform engagement patterns (Hashtag Co-occurrence on Facebook) during Pre-GenZ protest; provided technical guidance on data collection and analysis."
+
+
+
       - company: logiq.media
         position: Computational Social Science Researcher & Lead Developer (part-time)
         location: Berlin / Remote
