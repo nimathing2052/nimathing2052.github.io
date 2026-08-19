@@ -52,7 +52,7 @@ cv:
         highlights:
           - "Built and benchmarked a 5-model LLM classification pipeline for a hate-speech study, improving macro F1 from ~0.68 to ~0.86 and scaling analysis to 8,523 outputs."
 
-      - company: Policy Entreprenuers Inc., 
+      - company: Policy Entrepreneurs, Inc. (PEI)
         position: Technical Consultant, Gen Z Digital Movement Study
         location: Remote
         url: https://pei.center/
