@@ -70,9 +70,20 @@ cv:
         end_date: present
         summary: "Volunteer researcher (Jan–Mar 2026); part-time from Apr 2026."
         highlights:
-          - "On [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/) (Shaping Informed Frameworks for Trust), a 13-country European Narratives Observatory project. Builds audience segmentation and narrative-mapping pipelines to identify bridging actors and high-risk narrative clusters for counter-narrative experiments."
+          - "On [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/) (Shaping Informed Frameworks for Trust), a 13-country EU-Funded Project, preparing upcoming audience segmentation, network mapping pipelines, and creator-driven A/B testing environments to track engagement shifts."
           - "Lead developer of [ElfBot](https://www.logiq.media/elfbot), a prototype for AI-based Facebook comment moderation (ingestion/polling/webhooks backend; classifier rules and fine-tuned LLMs) detecting trolls and toxic comments with human-in-the-loop review; v1 focused on disinformation triage, surfacing coordinated-behavior signals for analyst review ([intro-video](https://www.youtube.com/watch?v=VetENEzbFA8))."
           - "Co-authored empirical commentary on the gap between fact-checking output volume and public reception in contested feeds — submitted to the [HKS Misinformation Review](https://drive.google.com/file/d/1eujhUqEHsWk5tC_Em74VQXrznuH4UmHq/view?usp=sharing)."
+
+      - company: My Voice Counts
+        position: Technical Consultant, B2B Creator Outreach
+        location: Berlin / Remote
+        url: https://myvoicecounts.io/
+        start_date: 2026-01
+        end_date: 2026-03
+        summary: "Provided B2B technical support and creator outreach for a Gen Z civic-engagement app."
+        highlights:
+          - "Supported creator outreach strategy for MyVoiceCounts (a civic and political engagement app for Gen Z), identifying and vetting suitable creators and contributing to promotion efforts; one resulting video reached 1.5M views and 100K+ reactions."
+          - "Provided technical support in sourcing and evaluating creators and content partners for outreach campaigns."
 
       - company: Weizenbaum Institute & University of Bern
         position: Short-term Computer Engineer
