@@ -3,7 +3,24 @@
   Changes from upstream:
   - Experience and Volunteer rendered as separate cards (not merged).
   - Presentations section supported via publications template.
+  - Wider container and bigger TOC sidebar font, scoped to this page only (see <style> below).
 {% endcomment %}
+
+<style>
+  /* Scoped to the CV page via :has(.cv) so other pages using toc.sidebar are unaffected. */
+  .container:has(.cv) {
+    max-width: 1200px;
+  }
+
+  .row:has(.cv) #toc-sidebar {
+    font-size: 1.05rem;
+  }
+
+  .row:has(.cv) #toc-sidebar .toc-link {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+</style>
 
 <div class="post">
   <header class="post-header">

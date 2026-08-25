@@ -1,0 +1,15 @@
+{% comment %}
+  Local helper (not part of the al_folio_cv gem) shared by the education/experience overrides.
+  Formats a date as "Mon YYYY" when a month is present ("2023-08" -> "Aug 2023"); passes
+  year-only ("2014") or literal ("present") values through unchanged.
+  Param: date_in. Result: printed as output (caller wraps the include in `capture` + `strip`,
+  since `assign` made inside an include does not leak back to the caller's scope).
+{% endcomment %}
+{% assign cv_date_parts = include.date_in | split: '-' %}
+{% if cv_date_parts.size > 1 %}
+  {% assign cv_months = 'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec' | split: ',' %}
+  {% assign cv_month_index = cv_date_parts[1] | times: 1 | minus: 1 %}
+  {{ cv_months[cv_month_index] | append: ' ' | append: cv_date_parts[0] }}
+{% else %}
+  {{ cv_date_parts[0] }}
+{% endif %}

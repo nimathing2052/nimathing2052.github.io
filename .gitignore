@@ -17,6 +17,6 @@ test-results/
 vendor
 
 # Private application materials (keep locally, do not publish)
-cv/
-proposal/
-coverletters/
+/cv/
+/proposal/
+/coverletters/
