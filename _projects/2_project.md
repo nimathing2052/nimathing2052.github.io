@@ -1,18 +1,21 @@
 ---
 layout: page
-title: Multimodal TikTok Virality Prediction
-description: Multimodal machine-learning pipeline for political virality in Nepal's 2022 elections (MSc thesis)
+title: "Beyond the Ballot: TikTok Virality in Nepal's 2022 Local Elections"
+description: MSc thesis — multimodal analysis of political attention on TikTok
 importance: 1
 category: research
 related_publications: false
 ---
 
-A multimodal machine-learning pipeline built for my master's thesis at the Hertie School, studying political virality and engagement on TikTok during Nepal's 2022 local elections.
+My master's thesis at the Hertie School, supervised by [Prof. Simon Munzert](https://simonmunzert.github.io/), asks how political content gained attention on TikTok during Nepal's 2022 local elections.
 
-The pipeline collected 28,165 political TikTok videos and assembled a multimodal sample of 2,964 videos, fusing audio features (OpenAI Whisper), visual features (CLIP), and platform metadata. A gradient-boosted model (XGBoost) reached an AUC of 0.800 under 5×5 cross-validation. The design separates description, prediction, and association so that predictive performance is not mistaken for causal explanation. An OLS component relates engagement to communicative style and political theme, using a hand-built codebook and a zero-shot classifier for Nepalese political-stance detection.
+I collected 28,165 election-related videos through TikTok's Research API and analyzed a view-stratified sample of 2,964. The multimodal pipeline combines Whisper transcripts, GPT-4o image captions and translations, multilingual text embeddings, and platform metadata. I hand-coded communication styles with a codebook developed for the study.
 
-The work is a methodological contribution to studying political communication in a low-resource, multilingual electoral context.
+**What I found.** Attention was moderately predictable after the fact (cross-validated AUC 0.80), but most of the signal came from how large the posting accounts already were. Videos about independent candidates drew more attention than general election content, and this association held across robustness checks. Style results are exploratory, because the style labels had only moderate agreement between coders. None of these results are causal.
 
-**Stack:** Python, scikit-learn, XGBoost, CLIP, Whisper.  
-**Thesis:** [Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf](https://github.com/nimathing2052/Thesis-Revision/blob/main/Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf) (submitted and completed, 2025; revised after committee feedback).  
-**Code:** [github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction).
+I revised the thesis in October 2026. The next step is a re-analysis with sampling weights, separate reach and engagement outcomes, and an independent second coder.
+
+**Presented at:** TCSS 2026 (Koç University, talk); _Youth in a Digital Society_, University of Potsdam (poster, October 2026); SICSS-Saarbrücken and MPIB Berlin (posters, 2025).
+
+**Methods:** Python, XGBoost, OLS regression, Whisper, GPT-4o.  
+**Thesis:** [PDF](https://github.com/nimathing2052/Thesis-Revision/blob/main/Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf) · **Poster:** [Potsdam 2026](https://drive.google.com/file/d/1p2l4XnWOSzSkKayU1wcdyvEOECyb35LP/view?usp=sharing) · **Code:** [GitHub](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction)

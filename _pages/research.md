@@ -2,65 +2,39 @@
 layout: page
 permalink: /research/
 title: research
-description: Research agenda, themes, and selected projects in computational social science.
+description: Research interests and current work in computational social science.
 nav: true
 nav_order: 2
 ---
 
-My background is in computational social science with a focus on political communication and social media. Across projects, my through-line is how non-traditional political actors gain credibility and mobilize attention in fragmented media environments — especially in Nepal and other understudied political contexts.
+I want to start with what drives my current research direction. My MSc thesis was a strong starting point. Understanding **who gets seen** was part of a "how" question, but over the last two years, the questions that have actually driven me are causal. The "why" question, not only about political visibility but about online political communication more broadly, is what I really want to explore. My recent proposals (e.g., [Reading the Crowd](https://drive.google.com/file/d/17JwP0Bq56LFVFRYtYRWSjwQg1HlqTaLj/view?usp=sharing)) give a glimpse of the research I hope to pursue in my dissertation. Although they lean toward experimental designs, my computational background and my ML, data science, and engineering work are an inseparable part of what shaped me. So, while I am guided by questions first, I am also eager to improve my methods and contribute to methods papers in computational social science.
 
-My existing work is primarily observational and descriptive — using network analysis, text classification, and multimodal machine learning to characterize how political attention and discourse are structured online. I am drawn to questions about how alternative and independent media actors shape political attitudes and mobilization, particularly in elections and moments of political crisis. My methods so far have been largely predictive and associative; where I want to go is toward experimental and psychologically-grounded approaches that can get closer to causal claims about media effects on political attitudes. The research questions below reflect that direction of travel — not a summary of completed work, but the questions I am actively thinking through as I prepare PhD applications.
+Most of my recent research is set in Nepal, my home country, even though I am based in Berlin. There are two main reasons: there is little such literature on Nepal, and I genuinely want to diversify the field and see how different contexts inform one another. I am also grateful for the chance to do applied work in a European context through my non-profit work, which focuses more on outreach and, in some ways, on using my technical strengths to contribute to a better democracy.
 
-## Research questions I want to pursue
+## Questions I want to pursue
 
-**Alternative media, source credibility, and political persuasion**
+- How do source identity and visible social signals (likes, comment tone) shape how credible people find political news?
+- Why do some political actors, such as independent candidates and creators, gain outsized attention online, and does that attention turn into trust?
+- Why are pro-democratic actors often seen as insincere or distant, and how do short-form social media diets and collectivist norms shape that distrust?
 
-Possible research questions include:
+My methods so far have been text-as-data, network analysis, and multimodal machine learning. These are mostly descriptive and predictive, so I now want to add survey experiments to get closer to the mechanisms behind the questions above. Where appropriate, I am also eager to use advanced computational methods and designs at scale to compare these questions across countries.
 
-- To what extent do source identity cues — alternative versus legacy media, partisan versus independent framing — shape perceived credibility and political attitude formation among audiences with low institutional trust?
-- How do visible social consensus signals (likes, comment tone, engagement volume, mutual-friend endorsements) function as persuasion heuristics when audiences assess political content from alternative media actors?
-- Under what conditions does sustained exposure to creator-led political content shift perceived majority opinion and anti-establishment sentiment among digitally active youth?
+## Current work
 
-**Influencer dynamics, multimodal framing, and political mobilization**
+**Beyond the Ballot: TikTok Virality and Political Engagement in Nepal's 2022 Local Elections**<br>
+MSc thesis, Hertie School (2025, revised 2026), supervised by [Prof. Simon Munzert](https://simonmunzert.github.io/). \[[Thesis](https://github.com/nimathing2052/Thesis-Revision/blob/main/Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf)\] \[[Poster](https://drive.google.com/file/d/1p2l4XnWOSzSkKayU1wcdyvEOECyb35LP/view?usp=sharing)\] \[[Code](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction)\]<br>
+Political attention concentrated among accounts with large audiences, and content about independent candidates drew more attention than general election content. The results are associations, not causal effects.
 
-Possible research questions include:
+**Beyond the ban: Co-engagement network signals on Nepali Reddit before the Sep 8 Gen Z protest**<br>
+Extended abstract, [SOSEC conference proceedings](https://www.socialsentiment.org/en/news/sosec-conference-proceedings-published/) (2026). \[[Poster](https://drive.google.com/file/d/1eeZ8ZRtDSCTJZ0rodJx6F0-iGODVqGRo/view?usp=sharing)\]<br>
+A network analysis of about 5,000 Reddit authors, showing that activity reorganized before the visible surge in posting.
 
-- Through what mechanisms does creator endorsement translate into electoral mobilization — and how much of that effect is attributable to the content itself versus the audience's pre-existing affinity with the source?
-- How do multimodal content features (visual identity, linguistic framing, affective tone) of independent creators differ from legacy media in their framing of political candidates, and which features drive differential engagement in low-resource, high-mobile-penetration contexts?
-- What structural features of the online information environment — narrative clustering, cross-platform amplification, echo-count dynamics — explain why some counter-narratives reach non-aligned audiences while others do not?
+**Reading the Crowd: Perceived Social Consensus and Credibility of Polarized News**<br>
+Research proposal (2026). \[[Proposal](https://drive.google.com/file/d/17JwP0Bq56LFVFRYtYRWSjwQg1HlqTaLj/view?usp=sharing)\]<br>
+A survey experiment design on how source identity and consensus cues shape credibility among young Nepali Facebook users.
 
-## Current and prior research
+**Fact-Checking in the Feed: The Gap Between Output Metrics and Public Reception**<br>
+Co-authored working paper, [Logiq Media](https://www.logiq.media) (2026). \[[Draft](https://drive.google.com/file/d/1aq3JTRjSeGSLbqBobhJiLKYir83h4EfP/view?usp=sharing)\]<br>
+Why the volume of fact-checking output says little about how the public receives it.
 
-**[Beyond the Ballot: TikTok Virality and Political Engagement in Nepal's 2022 Local Elections.](https://github.com/nimathing2052/Thesis-Revision/blob/main/Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf)**
-MSc thesis, Hertie School (submitted and completed 2025; supervised by [Prof. Simon Munzert](https://simonmunzert.github.io/)). Revised after committee feedback; not yet published as a journal article. \[[Thesis PDF](https://github.com/nimathing2052/Thesis-Revision/blob/main/Nima_Thing_MSc_Thesis_Draft_revised_v2.pdf)\] \[[Code](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction)\]
-
-A multimodal machine-learning study of 28,165 political TikTok videos; a multimodal subsample of 2,964 videos integrates audio (Whisper), video (CLIP), and metadata features (full model AUC 0.800, 5×5 cross-validation). This is primarily a predictive and associative study — the analysis carefully separates description, prediction, and association, but does not establish causal claims, which remains a significant limitation and an open direction.
-
-The central finding — that political visibility is patterned by sender identity and actor capacity more than communication style, with independent candidates (particularly Balen Shah, now Prime Minister of Nepal) driving disproportionate attention — raised a deeper question: not _what content goes viral_, but _how alternative, non-party media actors built outsized credibility and affective resonance in a fragmented political landscape_. That question drives the ongoing research interest.
-
-**[Beyond the ban: co-engagement network signals on Nepali Reddit in the run-up to the Sep 8 Gen Z protest](https://drive.google.com/file/d/1eeZ8ZRtDSCTJZ0rodJx6F0-iGODVqGRo/view?usp=sharing)**
-Ongoing independent research. \[[Poster](https://drive.google.com/file/d/1eeZ8ZRtDSCTJZ0rodJx6F0-iGODVqGRo/view?usp=sharing)\]
-
-A cross-platform structural analysis of Reddit and Facebook discourse preceding the protest, using the Meta Content Library and ArcticShift API. Focuses on network-level reorganization — contraction, densification, bridging community rotation — as precursors to volume spikes, rather than content classification. Descriptive and structural; accepted as a poster for the _How Are You, Democracy?_ conference, Karlsruhe (June 2026).
-
-**[Stance Polarization on Bluesky around a Political Assassination of Right-wing Influencer Candidate in the US.](https://drive.google.com/file/d/1kcsgxSgPpxD5LwJj0gTxsK6gtXpD5Had/view?usp=sharing)**
-Computational group project, [SICSS-Saarbrücken 2025](https://sicss.io/2025/saarbrucken/) — I led stance classification and author-network analysis. \[[Slides](https://drive.google.com/file/d/1kcsgxSgPpxD5LwJj0gTxsK6gtXpD5Had/view?usp=sharing)\]
-
-Descriptive classification study of roughly 156K Bluesky posts combining zero-shot stance classification, toxicity scoring (Perspective API), and author-network analysis over a 46K-node network with community detection. Exploratory in scope; co-authored with SICSS project teammates.
-
-**[Evaluating and Mitigating Bias in Toxic Language Detection Models.](https://drive.google.com/file/d/15ETMVC4AteKt-bWmkCpf6budbSE7kIpA/view?usp=sharing)**
-Group project with Armande Aboudrar-Méda, Zhuohao Hu, and Shruti Kakade (Deep Learning course, Hertie School) — I led model fine-tuning and bias evaluation and wrote most of the code. Presented as a poster at _SSaLM: Social Science and Language Models_, Weizenbaum Institute (2025). \[[Poster](https://drive.google.com/file/d/15ETMVC4AteKt-bWmkCpf6budbSE7kIpA/view?usp=sharing)\]
-
-Fine-tuned DistilBERT for multi-label toxicity classification on the Jigsaw Toxic Comment dataset, then evaluated and mitigated disparities across demographic groups (gender, religion, race) identified via keyword proxies. Coursework-scale rather than a published study; keyword-based group identification is a limitation relative to expert-annotated approaches.
-
-**[Mapping Elite Attention Ecosystems on Instagram: Gen-Z-Salient Political Attention in Nepal.](https://docs.google.com/presentation/d/17GjpRtULDzkKvfN_bew4d6g2WdmusGsxf6VYvrD207U/edit?usp=sharing)**
-Exploratory network-analysis project (2026). \[[Slides](https://docs.google.com/presentation/d/17GjpRtULDzkKvfN_bew4d6g2WdmusGsxf6VYvrD207U/edit?usp=sharing)\] \[[Proposal](https://drive.google.com/file/d/1LayaeEgQWoKNJVNmQkvySuIHHifvFBm4/view?usp=sharing)\]
-
-Exploratory mapping of the attention and following network around Nepal's digital Gen-Z movement on Instagram, focusing on influential activists as seed nodes. A preliminary structural snapshot rather than a causal or longitudinal analysis.
-
-**[Fact-Checking in the Feed: The Gap Between Output Metrics and Public Reception.](https://drive.google.com/file/d/1eujhUqEHsWk5tC_Em74VQXrznuH4UmHq/view?usp=sharing)**
-Mixed-methods commentary co-authored at [logiq.media](https://www.logiq.media). Submitted to the [_HKS Misinformation Review_](https://misinforeview.hks.harvard.edu/) (under review). \[[Draft](https://drive.google.com/file/d/1eujhUqEHsWk5tC_Em74VQXrznuH4UmHq/view?usp=sharing)\]
-
-A conceptual and mixed-methods piece examining why fact-checking output volume diverges from reception in contested feeds. Not an empirical study — closer to a critical commentary drawing on available evidence and practitioner knowledge from the logiq.media context.
-
-For implementation detail and code, see [Projects](/projects/); for the full list of presentations and talks, see [Research Outputs](/publications/).
+Other projects, including research tools and coursework, are on [Projects](/projects/). All talks and posters are listed under [Research outputs](/publications/).

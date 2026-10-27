@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: research outputs
-description: Manuscripts, working papers, and presentations. I do not yet have peer-reviewed publications; the items below are research outputs — a submitted manuscript, working papers, a thesis, policy writing, and talks and posters.
+description: Working papers, thesis, policy writing, talks, and posters.
 nav: true
 nav_order: 3
 ---

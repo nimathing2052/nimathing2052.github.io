@@ -3,7 +3,7 @@ layout: page
 permalink: /experience/
 title: CSS Journey
 description: My path from software engineering to computational social science (CSS).
-nav: true
+nav: false
 nav_order: 6
 ---
 

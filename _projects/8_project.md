@@ -2,7 +2,7 @@
 layout: page
 title: Mapping Elite Attention Ecosystems on Instagram
 description: Network mapping of Gen-Z-salient political attention in Nepal
-importance: 5
+importance: 7
 category: research
 related_publications: false
 ---

@@ -7,7 +7,7 @@ category: infrastructure
 related_publications: false
 ---
 
-Research infrastructure built during a short-term expert engagement with the Weizenbaum Institute's _Platform Algorithms and Digital Propaganda_ group and the University of Bern (December 2025).
+Research infrastructure built during a four-week short-term expert engagement with the Weizenbaum Institute's _Platform Algorithms and Digital Propaganda_ group (December 2025), with Dr. Elizaveta Kuznetsova and Dr. Mykola Makhortykh. The tool supports research on incidental exposure to Kremlin disinformation through search engines and LLMs.
 
 The framework supports longitudinal algorithmic auditing of Yandex and Google in the context of Kremlin-disinformation research. It is built on Botasaurus with WebGL/Canvas fingerprint evasion, proxy support, parallelization, CAPTCHA handling, and structured logging. The guiding principle was research infrastructure first, code second: the system is reproducible, modular, and documented for hand-off to social-science researchers.
 
