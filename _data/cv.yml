@@ -145,7 +145,7 @@ cv:
         highlights:
           - "Built performance-testing and schema-comparison tools (.NET Core/C#) for REST APIs, which cut deployment checks from hours to minutes."
           - "Wrote Python regression test suites for an AWS/Snowflake data-ingestion pipeline."
-          - "Received the Verisk \"Way to Go\" recognition (2020)."
+          - 'Received the Verisk "Way to Go" recognition (2020).'
 
     Working Papers and Proceedings:
       - bullet: "Thing, N. (2026). Beyond the ban: Co-engagement network signals on Nepali Reddit before the Sep 8 Gen Z protest. In _How are you, democracy? Proceedings of the SOSEC Academic Conference_ (pp. 40–44). SOSEC & FZI. Extended abstract. [Link](https://www.socialsentiment.org/en/news/sosec-conference-proceedings-published/)"
