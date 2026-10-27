@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Social Science Researcher · Political Communication, Online Discourse & Alternative Media · Berlin
+subtitle: Computational Social Science Researcher · Political Communication, Online Discourse & Social Media · Berlin
 
 profile:
   align: right
