@@ -2,7 +2,7 @@
 layout: page
 title: From LDA to BERTopic — Podcast Discourse Analysis
 description: Transformer-based topic modelling of ASR-transcribed political podcasts
-importance: 3
+importance: 6
 category: research
 related_publications: false
 ---
