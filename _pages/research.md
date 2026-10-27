@@ -7,9 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-I want to start with what drives my current research direction. My MSc thesis was a strong starting point. Understanding **who gets seen** was part of a "how" question, but over the last two years, the questions that have actually driven me are causal. The "why" question, not only about political visibility but about online political communication more broadly, is what I really want to explore. My recent proposals (e.g., [Reading the Crowd](https://drive.google.com/file/d/17JwP0Bq56LFVFRYtYRWSjwQg1HlqTaLj/view?usp=sharing)) give a glimpse of the research I hope to pursue in my dissertation. Although they lean toward experimental designs, my computational background and my ML, data science, and engineering work are an inseparable part of what shaped me. So, while I am guided by questions first, I am also eager to improve my methods and contribute to methods papers in computational social science.
+My MSc thesis on TikTok in Nepal's 2022 local elections was my starting point in computational social science. It helped me answer **who gets seen**: political attention concentrated among accounts that were already large, and content about a few independent, alternative candidates drew disproportionate attention in a country with decades of political turmoil. Videos with a charismatic or leadership style also drew more attention, but most creators used only one style, so I cannot tell whether the style or the creator made the difference. Since then, I have been interested in a broader, causal question: why some political actors and messages are seen and perceived as more credible than others.
 
-Most of my recent research is set in Nepal, my home country, even though I am based in Berlin. There are two main reasons: there is little such literature on Nepal, and I genuinely want to diversify the field and see how different contexts inform one another. I am also grateful for the chance to do applied work in a European context through my non-profit work, which focuses more on outreach and, in some ways, on using my technical strengths to contribute to a better democracy.
+My exploratory thesis focused on Nepal, my home country, because I know the context well and it is highly under-researched. But my work also shows patterns that are not unique to Nepal: outsider candidates, creators acting as political messengers, and deep distrust of established parties. These are widely studied in Western literature, and I want to see how they compare in Global South contexts like Nepal.
+
+At Logiq Media, through the EU-funded SHIFT project, I now explore these questions in a European context: how information manipulation shapes what people believe and whom they trust, and how to turn that evidence into action. For my PhD, I want to compare across contexts so that each one sheds light on the others, and to test and extend Western models of polarization and fragmentation with perspectives from the Global South.
 
 ## Questions I want to pursue
 
@@ -17,7 +19,9 @@ Most of my recent research is set in Nepal, my home country, even though I am ba
 - Why do some political actors, such as independent candidates and creators, gain outsized attention online, and does that attention turn into trust?
 - Why are pro-democratic actors often seen as insincere or distant, and how do short-form social media diets and collectivist norms shape that distrust?
 
-My methods so far have been text-as-data, network analysis, and multimodal machine learning. These are mostly descriptive and predictive, so I now want to add survey experiments to get closer to the mechanisms behind the questions above. Where appropriate, I am also eager to use advanced computational methods and designs at scale to compare these questions across countries.
+## How I want to study them
+
+So far, my methods have been text-as-data, network analysis, and multimodal machine learning, which are mostly descriptive and predictive. I now want to add survey experiments, as in my proposal [Reading the Crowd](https://drive.google.com/file/d/17JwP0Bq56LFVFRYtYRWSjwQg1HlqTaLj/view?usp=sharing), to get closer to the mechanisms. My engineering background is part of how I work, so I also want to keep improving my methods and, where it fits, use computational designs at scale to compare across countries.
 
 ## Current work
 
