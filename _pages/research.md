@@ -21,7 +21,7 @@ At Logiq Media, through the EU-funded SHIFT project, I now explore these questio
 
 ## How I want to study them
 
-So far, my methods have been text-as-data, network analysis, and multimodal machine learning, which are mostly descriptive and predictive. I now want to add survey experiments, as in my proposal [Reading the Crowd](https://drive.google.com/file/d/17JwP0Bq56LFVFRYtYRWSjwQg1HlqTaLj/view?usp=sharing), to get closer to the mechanisms. My engineering background is part of how I work, so I also want to keep improving my methods and, where it fits, use computational designs at scale to compare across countries.
+So far, my methods have been text-as-data, network analysis, and multimodal machine learning, which are mostly descriptive and predictive. I want to add survey experiments, as in my experimental proposal [Reading the Crowd](https://drive.google.com/file/d/17JwP0Bq56LFVFRYtYRWSjwQg1HlqTaLj/view?usp=sharing), to get closer to understand causal mechanisms. 
 
 ## Current work
 
