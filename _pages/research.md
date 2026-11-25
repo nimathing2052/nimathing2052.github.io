@@ -11,7 +11,7 @@ My MSc thesis on TikTok in Nepal's 2022 local elections was my starting point in
 
 My exploratory thesis focused on Nepal, my home country, because I know the context well and it is highly under-researched. But my work also shows patterns that are not unique to Nepal: outsider candidates, creators acting as political messengers, and deep distrust of established parties. These are widely studied in Western literature, and I want to see how they compare in Global South contexts like Nepal.
 
-At Logiq Media, through the EU-funded SHIFT project, I now explore these questions in a European context: how information manipulation shapes what people believe and whom they trust, and how to turn that evidence into action. For my PhD, I want to compare across contexts so that each one sheds light on the others, and to test and extend Western models of polarization and fragmentation with perspectives from the Global South.
+At Logiq Media, through the EU-funded SHIFT project, I now explore these questions in a European context: how information manipulation shapes what people believe and whom they trust, and how to turn that evidence into action. From academic perspective, I also want to compare across contexts so that each one sheds light on the others, and to test and extend Western models of polarization and fragmentation with perspectives from the Global South.
 
 ## Questions I want to pursue
 
